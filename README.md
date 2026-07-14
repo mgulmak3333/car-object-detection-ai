@@ -16,7 +16,7 @@
 ---
 ## Kaggle Profile: https://www.kaggle.com/musaglmak
 
-## Kaggle Voren-X1 Model: [https://www.kaggle.com/models/musaglmak/tumorlensb0](https://www.kaggle.com/models/musaglmak/voren)
+## Kaggle Voren-X1 Model: https://www.kaggle.com/models/musaglmak/voren
 ---
 
 ## 🚀 Live Demo & Model Links
