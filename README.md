@@ -19,27 +19,27 @@
 ## Kaggle Voren-X1 Model: https://www.kaggle.com/models/musaglmak/voren
 ---
 
-## 🚀 Live Demo & Model Links
-* **Web Application:** Built with Streamlit.
-* **Trained Model & Dataset:** You can access the trained model (`brain_tumor_model.h5`) and the source dataset on Kaggle via [Brain Tumor MRI Data by Tom Backert](https://www.kaggle.com/datasets/tombackert/brain-tumor-mri-data).
+## 🚀 Model Links
+
+* **Trained Model & Documentation:** You can access the trained model weights (`voren.pt`) and the model card on Kaggle via [voren on Kaggle](https://www.kaggle.com/models/musaglmak/voren).
 
 ---
 
 ## 📊 Dataset & Classes
-The model is trained to classify MRI scans into four distinct categories:
-1. **Glioma**
-2. **Meningioma**
-3. **No Tumor**
-4. **Pituitary**
+
+The model is fine-tuned to detect a single, specific class in images:
+1. **Car** (Automobiles/Vehicles)
+
+The dataset used for training is 100% custom-curated, consisting of hand-labeled images focused solely on vehicle identification.
 
 ---
 
 ## 🛠️ Tech Stack & Dependencies
-* **Deep Learning Framework:** TensorFlow / Keras
-* **Model Architecture:** EfficientNet-B0 (Transfer Learning)
-* **Model Complexity:** 4,378,537 Total Parameters (Optimized for hardware efficiency)
+* **Deep Learning Framework:** PyTorch (Ultralytics)
+* **Model Architecture:** YOLOv26n (Fine-Tuning)
+* **Model Complexity:** 2,504,190 Total Parameters (Highly optimized and lightweight for fast CPU/edge inference)
 * **Web Interface:** Streamlit
-* **Data Processing & Computer Vision:** NumPy, Pillow (PIL)
+* **Data Processing & Computer Vision:** NumPy, Pillow (PIL), OpenCV-Python
 
 ---
 
@@ -49,8 +49,8 @@ Follow these steps to run the Streamlit application on your local machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/mgulmak3333/brain-tumor-detection-ai
-cd brain-tumor-detection-ai
+https://github.com/mgulmak3333/car-object-detection-ai
+cd car-object-detection-ai
 
 ```
 
@@ -65,7 +65,7 @@ pip install -r requirements.txt
 
 ### 3. Download the Model
 
-Download the `brain_tumor_model.h5` file from the Kaggle link provided above and place it into the root directory of this project.
+Download the `voren.pt` file from the Kaggle link provided above and place it into the root directory of this project.
 
 ### 4. Run the Streamlit App
 
