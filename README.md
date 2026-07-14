@@ -21,6 +21,7 @@
 
 ## 🚀 Model Links
 
+* **Demo Link:** https://car-object-detection-ai-ludx7efpumrswidwi8tev9.streamlit.app/
 * **Trained Model & Documentation:** You can access the trained model weights (`voren.pt`) and the model card on Kaggle via [voren on Kaggle](https://www.kaggle.com/models/musaglmak/voren).
 
 ---
