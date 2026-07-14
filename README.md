@@ -76,19 +76,6 @@ streamlit run app.py
 
 ---
 
-## 🎯 Citation
-
-If you use the dataset or want to reference the source materials in your work, please credit the original author:
-
-```text
-Brain Tumor MRI Data by Tom Backert
-URL: [https://www.kaggle.com/datasets/tombackert/brain-tumor-mri-data](https://www.kaggle.com/datasets/tombackert/brain-tumor-mri-data)
-
-```
-
-
----
-
 ## 📜 License & Copyright
 
 Copyright © 2026 [mgulmak3333](https://github.com/mgulmak3333).  
