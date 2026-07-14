@@ -1,7 +1,7 @@
 # Voren-X1 | Car Object Detection AI 🚗
 
 <p align="left">
-  <img src="https://medicine.washu.edu/app/uploads/2021/02/GlioblastomaBranScans-700x467.jpg" alt="Brain MRI Scans" width="500">
+  <img src="https://raw.githubusercontent.com/mgulmak3333/car-object-detection-ai/refs/heads/main/tittle.png" alt="Brain MRI Scans" width="500">
 </p>
 
 <p align="left">
@@ -16,7 +16,7 @@
 ---
 ## Kaggle Profile: https://www.kaggle.com/musaglmak
 
-## Kaggle TumorLensB0 Model: https://www.kaggle.com/models/musaglmak/tumorlensb0
+## Kaggle Voren-X1 Model: [https://www.kaggle.com/models/musaglmak/tumorlensb0](https://www.kaggle.com/models/musaglmak/voren)
 ---
 
 ## 🚀 Live Demo & Model Links
